@@ -1,11 +1,19 @@
 {
   "name": "trip-planner",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "",
+=======
+  "description": "pairProgramming workshop",
+>>>>>>> 46cfc6ae17c017768341579c1c27914512a0c2c4
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "author": "",
+=======
+  "author": "Kostya and Steve",
+>>>>>>> 46cfc6ae17c017768341579c1c27914512a0c2c4
   "license": "ISC"
 }
